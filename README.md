@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá meu nome é Damares Souza... 👋
 
-<!--
-**damareszsouza/damareszsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**damareszsouza/damareszsouza** é um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 Atualmente sou estudante de Engenharia de Software e Segurança da Informação 📚🔒
+- 🌱 Atualmente estou apredendo sobre desenvolvimento Full Stack.🏃☕
+- 👯 Estou procurando colaborar com novos projetos. 🌇🌃
+- 🤔 Estou procurando ajuda em resoluções de dúvidas sobre desenvolvimento de software. 😊
+- 💬 Me pergunte sobre o futuro. 🌌🌞🌚
+- 📫 Meu email é damares.zsouza@gmail.com 💌
+- 😄 Pronomes: Ela/Dela. 💙
+- ⚡ 👍✌👊
 -->
