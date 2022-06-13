@@ -13,3 +13,4 @@
 - 😄 Pronomes: Ela/Dela. 💙
 - ⚡ 👍✌👊📚☕🐍💞🎧💙🔧🆗▶🔭 💻📌🏀👦💅
 
+### _Eu não sou o que me acontece, eu sou o que escolho me tornar. " Carl Jung'_
