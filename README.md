@@ -1,4 +1,4 @@
-# _Olá meu nome é Damares Souza, sejam bem vindos !_ 💙💙💙
+# _Olá, meu nome é Damares Souza. Sejam bem vindos !_ 💙💙💙
 
 ## _Esse GitHub tem o intuito de servi de portfólio de exercícios e práticas acadêmicas, possuo outro 'em aperfeiçoamento' onde pretendo agregar conteúdos de projetos pessoais voltados a assuntos Ideológico, inclusivo, econômico, ecológico, político, saúde mental e direito da mulher._ 🌷🌷🌷
 
