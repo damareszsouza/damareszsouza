@@ -37,7 +37,7 @@
 </div>
 <br> -->
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damareszsouza)](https://www.linkedin.com/in/damares-souza/github-readmi-estatistica)
+  
 
 
 
