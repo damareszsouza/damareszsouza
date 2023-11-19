@@ -1,6 +1,6 @@
 # _Olá, meu nome é Damares Souza. Sejam bem vindos !_ 💙💙💙
 
-## _Esse GitHub tem o intuito de servi de portfólio de exercícios e práticas acadêmicas, possuo outro 'em aperfeiçoamento' onde pretendo agregar conteúdos de projetos pessoais voltados a assuntos Ideológicos, inclusivos, econômicos, ecológicos, políticos, saúde mental e direito da mulher._ 🌷🌷🌷
+## _Esse GitHub tem o intuito de servi de portfólio de exercícios e práticas acadêmicas, tenho outro 'em aperfeiçoamento' onde pretendo agregar conteúdos de projetos pessoais voltados a assuntos Ideológicos, inclusivos, econômicos, ecológicos, políticos, saúde mental e direito da mulher._ 🌷🌷🌷
 
 ### _Eu não sou o que me acontece, eu sou o que escolho me tornar. " Carl Jung'_
 
